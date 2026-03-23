@@ -13,7 +13,7 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/alvin66tsang/OpenAI-VideoScriptGenerator-Python-LangChain.git
-   cd ./OpenAI-VideoScriptGenerator-Python-LangChain
+   cd ./video-script-generator
 
 2.  Install dependencies: pip install -r ./requirement.txt
 
